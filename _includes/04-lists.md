@@ -1,6 +1,6 @@
-* I am a Man :smile:
-* I love Data Science :heart:
-* I love Coding :+1:
-* I love classical music :notes:
-* I love Jesus :heart: :heart: :heart_eyes:
+* :smile: I am a Man 
+* :heart: I love Data Science 
+* :+1: I love Coding 
+* :notes: I love classical music 
+* :heart: :heart: :heart_eyes: I love Jesus 
     
